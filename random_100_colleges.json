@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Global College of Arts, Vijayawada",
+    "address": "Vijayawada, Andhra Pradesh, India",
+    "type": "Private College",
+    "latitude": 9.6451,
+    "longitude": 92.8453
+  },
+  {
+    "name": "SRM College of Technology, Bhopal",
+    "address": "Bhopal, Madhya Pradesh, India",
+    "type": "Government College",
+    "latitude": 10.9802,
+    "longitude": 82.5222
+  },
+  {
+    "name": "Regional College of Technology, Hyderabad",
+    "address": "Hyderabad, Telangana, India",
+    "type": "Private College",
+    "latitude": 12.338,
+    "longitude": 79.6912
+  },
+  {
+    "name": "Narayana College of Science, Cochin",
+    "address": "Cochin, Kerala, India",
+    "type": "Government College",
+    "latitude": 11.2916,
+    "longitude": 84.1504
+  },
+  {
+    "name": "National College of Science, Mumbai",
+    "address": "Mumbai, Maharashtra, India",
+    "type": "Autonomous College",
+    "latitude": 24.2269,
+    "longitude": 79.1673
+  },
+  {
+    "name": "Vignan College of Science, Surat",
+    "address": "Surat, Gujarat, India",
+    "type": "Deemed University",
+    "latitude": 8.4412,
+    "longitude": 87.1737
+  },
+  {
+    "name": "Global College of Engineering, Nagpur",
+    "address": "Nagpur, Maharashtra, India",
+    "type": "Government College",
+    "latitude": 27.4614,
+    "longitude": 94.9267
+  },
+  {
+    "name": "St. College of Education, Guntur",
+    "address": "Guntur, Andhra Pradesh, India",
+    "type": "Engineering College",
+    "latitude": 9.9305,
+    "longitude": 83.7046
+  },
+  {
+    "name": "Sree College of Technology, Indore",
+    "address": "Indore, Madhya Pradesh, India",
+    "type": "Private College",
+    "latitude": 14.8793,
+    "longitude": 93.0105
+  },
+  {
+    "name": "St. College of Science, Ahmedabad",
+    "address": "Ahmedabad, Gujarat, India",
+    "type": "Private College",
+    "latitude": 15.6297,
+    "longitude": 73.1601
+  },
+  {
+    "name": "Global College of Education, Chennai",
+    "address": "Chennai, Tamil Nadu, India",
+    "type": "Engineering College",
+    "latitude": 30.478,
+    "longitude": 78.617
+  },
+  {
+    "name": "St. College of Technology, Coimbatore",
+    "address": "Coimbatore, Tamil Nadu, India",
+    "type": "Engineering College",
+    "latitude": 11.0697,
+    "longitude": 75.9962
+  },
+  {
+    "name": "Vignan College of Arts, Chennai",
+    "address": "Chennai, Tamil Nadu, India",
+    "type": "Engineering College",
+    "latitude": 12.3905,
+    "longitude": 74.4644
+  },
+  {
+    "name": "Vignan College of Engineering, Jaipur",
+    "address": "Jaipur, Rajasthan, India",
+    "type": "Engineering College",
+    "latitude": 18.2574,
+    "longitude": 76.9628
+  },
+  {
+    "name": "SRM College of Arts, Hyderabad",
+    "address": "Hyderabad, Telangana, India",
+    "type": "Private College",
+    "latitude": 30.745,
+    "longitude": 75.1936
+  },
+  {
+    "name": "Bharath College of Commerce, Guntur",
+    "address": "Guntur, Andhra Pradesh, India",
+    "type": "Private College",
+    "latitude": 26.4141,
+    "longitude": 75.2536
+  },
+  {
+    "name": "Bharath College of Engineering, Ahmedabad",
+    "address": "Ahmedabad, Gujarat, India",
+    "type": "Autonomous College",
+    "latitude": 14.5038,
+    "longitude": 73.6461
+  },
+  {
+    "name": "St. College of Arts, Madurai",
+    "address": "Madurai, Tamil Nadu, India",
+    "type": "Engineering College",
+    "latitude": 29.3566,
+    "longitude": 70.68
+  },
+  {
+    "name": "St. College of Science, Guntur",
+    "address": "Guntur, Andhra Pradesh, India",
+    "type": "Engineering College",
+    "latitude": 24.5685,
+    "longitude": 77.9639
+  },
+  {
+    "name": "Regional College of Commerce, Guntur",
+    "address": "Guntur, Andhra Pradesh, India",
+    "type": "Engineering College",
+    "latitude": 22.3915,
+    "longitude": 70.7372
+  },
+  {
+    "name": "Modern College of Commerce, Jaipur",
+    "address": "Jaipur, Rajasthan, India",
+    "type": "Government College",
+    "latitude": 27.9143,
+    "longitude": 68.6492
+  },
+  {
+    "name": "St. College of Technology, Bhopal",
+    "address": "Bhopal, Madhya Pradesh, India",
+    "type": "Autonomous College",
+    "latitude": 23.8231,
+    "longitude": 87.4758
+  },
+  {
+    "name": "Global College of Arts, Bhopal",
+    "address": "Bhopal, Madhya Pradesh, India",
+    "type": "Government College",
+    "latitude": 27.919,
+    "longitude": 70.1081
+  },
+  {
+    "name": "Modern College of Technology, Bangalore",
+    "address": "Bangalore, Karnataka, India",
+    "type": "Government College",
+    "latitude": 17.5766,
+    "longitude": 83.6486
+  },
+  {
+    "name": "Global College of Education, Ahmedabad",
+    "address": "Ahmedabad, Gujarat, India",
+    "type": "Deemed University",
+    "latitude": 16.3344,
+    "longitude": 74.1424
+  },
+  {
+    "name": "Global College of Arts, Chennai",
+    "address": "Chennai, Tamil Nadu, India",
+    "type": "Autonomous College",
+    "latitude": 20.0725,
+    "longitude": 90.7148
+  },
+  {
+    "name": "Vignan College of Technology, Raipur",
+    "address": "Raipur, Chhattisgarh, India",
+    "type": "Deemed University",
+    "latitude": 15.4028,
+    "longitude": 94.6412
+  },
+  {
+    "name": "Narayana College of Arts, Kolkata",
+    "address": "Kolkata, West Bengal, India",
+    "type": "Government College",
+    "latitude": 17.8996,
+    "longitude": 77.5336
+  },
+  {
+    "name": "Vignan College of Education, Ahmedabad",
+    "address": "Ahmedabad, Gujarat, India",
+    "type": "Private College",
+    "latitude": 30.2003,
+    "longitude": 69.2899
+  },
+  {
+    "name": "SRM College of Technology, Chandigarh",
+    "address": "Chandigarh, Punjab, India",
+    "type": "Autonomous College",
+    "latitude": 11.7549,
+    "longitude": 87.572
+  },
+  {
+    "name": "Bharath College of Education, Ahmedabad",
+    "address": "Ahmedabad, Gujarat, India",
+    "type": "Government College",
+    "latitude": 23.6314,
+    "longitude": 87.2878
+  },
+  {
+    "name": "Vignan College of Technology, Cochin",
+    "address": "Cochin, Kerala, India",
+    "type": "Private College",
+    "latitude": 15.5722,
+    "longitude": 71.9233
+  },
+  {
+    "name": "Bharath College of Technology, Coimbatore",
+    "address": "Coimbatore, Tamil Nadu, India",
+    "type": "Autonomous College",
+    "latitude": 18.2826,
+    "longitude": 92.1944
+  },
+  {
+    "name": "Narayana College of Technology, Visakhapatnam",
+    "address": "Visakhapatnam, Andhra Pradesh, India",
+    "type": "Deemed University",
+    "latitude": 33.0593,
+    "longitude": 83.5381
+  },
+  {
+    "name": "Narayana College of Commerce, Bangalore",
+    "address": "Bangalore, Karnataka, India",
+    "type": "Government College",
+    "latitude": 28.1917,
+    "longitude": 72.8905
+  },
+  {
+    "name": "Vignan College of Technology, Ahmedabad",
+    "address": "Ahmedabad, Gujarat, India",
+    "type": "Government College",
+    "latitude": 22.764,
+    "longitude": 85.946
+  },
+  {
+    "name": "Bharath College of Commerce, Visakhapatnam",
+    "address": "Visakhapatnam, Andhra Pradesh, India",
+    "type": "Private College",
+    "latitude": 11.7532,
+    "longitude": 75.9124
+  },
+  {
+    "name": "Vignan College of Science, Cochin",
+    "address": "Cochin, Kerala, India",
+    "type": "Autonomous College",
+    "latitude": 22.156,
+    "longitude": 92.8717
+  },
+  {
+    "name": "National College of Science, Chandigarh",
+    "address": "Chandigarh, Punjab, India",
+    "type": "Engineering College",
+    "latitude": 23.8617,
+    "longitude": 68.7096
+  },
+  {
+    "name": "SRM College of Science, Bangalore",
+    "address": "Bangalore, Karnataka, India",
+    "type": "Engineering College",
+    "latitude": 14.4521,
+    "longitude": 73.2392
+  },
+  {
+    "name": "Global College of Technology, Delhi",
+    "address": "Delhi, Delhi, India",
+    "type": "Private College",
+    "latitude": 25.966,
+    "longitude": 95.4302
+  },
+  {
+    "name": "Narayana College of Arts, Delhi",
+    "address": "Delhi, Delhi, India",
+    "type": "Government College",
+    "latitude": 11.593,
+    "longitude": 84.2343
+  },
+  {
+    "name": "Bharath College of Engineering, Delhi",
+    "address": "Delhi, Delhi, India",
+    "type": "Government College",
+    "latitude": 30.4129,
+    "longitude": 92.3193
+  },
+  {
+    "name": "Regional College of Technology, Madurai",
+    "address": "Madurai, Tamil Nadu, India",
+    "type": "Deemed University",
+    "latitude": 24.195,
+    "longitude": 92.7816
+  },
+  {
+    "name": "Narayana College of Science, Visakhapatnam",
+    "address": "Visakhapatnam, Andhra Pradesh, India",
+    "type": "Engineering College",
+    "latitude": 11.1009,
+    "longitude": 82.3668
+  },
+  {
+    "name": "Narayana College of Arts, Raipur",
+    "address": "Raipur, Chhattisgarh, India",
+    "type": "Engineering College",
+    "latitude": 15.1503,
+    "longitude": 70.3607
+  },
+  {
+    "name": "St. College of Technology, Delhi",
+    "address": "Delhi, Delhi, India",
+    "type": "Private College",
+    "latitude": 11.814,
+    "longitude": 96.3187
+  },
+  {
+    "name": "Bharath College of Commerce, Bangalore",
+    "address": "Bangalore, Karnataka, India",
+    "type": "Private College",
+    "latitude": 33.0181,
+    "longitude": 90.4537
+  },
+  {
+    "name": "Global College of Technology, Coimbatore",
+    "address": "Coimbatore, Tamil Nadu, India",
+    "type": "Government College",
+    "latitude": 8.85,
+    "longitude": 89.8471
+  },
+  {
+    "name": "SRM College of Science, Ahmedabad",
+    "address": "Ahmedabad, Gujarat, India",
+    "type": "Autonomous College",
+    "latitude": 23.0012,
+    "longitude": 88.6194
+  },
+  {
+    "name": "Modern College of Education, Delhi",
+    "address": "Delhi, Delhi, India",
+    "type": "Private College",
+    "latitude": 11.8568,
+    "longitude": 72.6123
+  },
+  {
+    "name": "St. College of Science, Chennai",
+    "address": "Chennai, Tamil Nadu, India",
+    "type": "Deemed University",
+    "latitude": 21.4561,
+    "longitude": 79.7975
+  },
+  {
+    "name": "Bharath College of Commerce, Jaipur",
+    "address": "Jaipur, Rajasthan, India",
+    "type": "Private College",
+    "latitude": 17.6578,
+    "longitude": 92.2222
+  },
+  {
+    "name": "Regional College of Education, Surat",
+    "address": "Surat, Gujarat, India",
+    "type": "Government College",
+    "latitude": 14.4975,
+    "longitude": 72.9086
+  },
+  {
+    "name": "Narayana College of Technology, Madurai",
+    "address": "Madurai, Tamil Nadu, India",
+    "type": "Autonomous College",
+    "latitude": 10.0137,
+    "longitude": 90.1364
+  },
+  {
+    "name": "Sree College of Engineering, Ahmedabad",
+    "address": "Ahmedabad, Gujarat, India",
+    "type": "Engineering College",
+    "latitude": 33.4185,
+    "longitude": 72.0721
+  },
+  {
+    "name": "St. College of Technology, Mumbai",
+    "address": "Mumbai, Maharashtra, India",
+    "type": "Deemed University",
+    "latitude": 10.8196,
+    "longitude": 71.7418
+  },
+  {
+    "name": "St. College of Technology, Nagpur",
+    "address": "Nagpur, Maharashtra, India",
+    "type": "Engineering College",
+    "latitude": 11.7606,
+    "longitude": 70.0662
+  },
+  {
+    "name": "Bharath College of Engineering, Coimbatore",
+    "address": "Coimbatore, Tamil Nadu, India",
+    "type": "Deemed University",
+    "latitude": 27.6691,
+    "longitude": 68.8473
+  },
+  {
+    "name": "Regional College of Education, Vijayawada",
+    "address": "Vijayawada, Andhra Pradesh, India",
+    "type": "Autonomous College",
+    "latitude": 31.1437,
+    "longitude": 96.4565
+  },
+  {
+    "name": "Vignan College of Engineering, Coimbatore",
+    "address": "Coimbatore, Tamil Nadu, India",
+    "type": "Government College",
+    "latitude": 19.02,
+    "longitude": 90.6361
+  },
+  {
+    "name": "Modern College of Science, Guwahati",
+    "address": "Guwahati, Assam, India",
+    "type": "Engineering College",
+    "latitude": 34.8766,
+    "longitude": 81.6795
+  },
+  {
+    "name": "Vignan College of Arts, Raipur",
+    "address": "Raipur, Chhattisgarh, India",
+    "type": "Private College",
+    "latitude": 19.1832,
+    "longitude": 73.7431
+  },
+  {
+    "name": "Regional College of Education, Pune",
+    "address": "Pune, Maharashtra, India",
+    "type": "Private College",
+    "latitude": 22.8865,
+    "longitude": 85.3471
+  },
+  {
+    "name": "Narayana College of Engineering, Chennai",
+    "address": "Chennai, Tamil Nadu, India",
+    "type": "Deemed University",
+    "latitude": 20.6158,
+    "longitude": 82.4539
+  },
+  {
+    "name": "St. College of Education, Cochin",
+    "address": "Cochin, Kerala, India",
+    "type": "Government College",
+    "latitude": 15.4126,
+    "longitude": 71.1607
+  },
+  {
+    "name": "Modern College of Commerce, Patna",
+    "address": "Patna, Bihar, India",
+    "type": "Engineering College",
+    "latitude": 27.9598,
+    "longitude": 71.239
+  },
+  {
+    "name": "Modern College of Commerce, Nagpur",
+    "address": "Nagpur, Maharashtra, India",
+    "type": "Engineering College",
+    "latitude": 20.0002,
+    "longitude": 72.8402
+  },
+  {
+    "name": "Regional College of Arts, Guwahati",
+    "address": "Guwahati, Assam, India",
+    "type": "Deemed University",
+    "latitude": 34.3598,
+    "longitude": 81.8273
+  },
+  {
+    "name": "National College of Engineering, Bangalore",
+    "address": "Bangalore, Karnataka, India",
+    "type": "Government College",
+    "latitude": 33.5399,
+    "longitude": 95.612
+  },
+  {
+    "name": "Bharath College of Engineering, Hyderabad",
+    "address": "Hyderabad, Telangana, India",
+    "type": "Autonomous College",
+    "latitude": 23.1053,
+    "longitude": 79.9247
+  },
+  {
+    "name": "National College of Science, Visakhapatnam",
+    "address": "Visakhapatnam, Andhra Pradesh, India",
+    "type": "Private College",
+    "latitude": 10.0105,
+    "longitude": 79.917
+  },
+  {
+    "name": "Global College of Education, Guntur",
+    "address": "Guntur, Andhra Pradesh, India",
+    "type": "Autonomous College",
+    "latitude": 20.4489,
+    "longitude": 73.43
+  },
+  {
+    "name": "Modern College of Education, Raipur",
+    "address": "Raipur, Chhattisgarh, India",
+    "type": "Government College",
+    "latitude": 24.3434,
+    "longitude": 72.0528
+  },
+  {
+    "name": "Narayana College of Arts, Vijayawada",
+    "address": "Vijayawada, Andhra Pradesh, India",
+    "type": "Engineering College",
+    "latitude": 17.4906,
+    "longitude": 87.1026
+  },
+  {
+    "name": "Narayana College of Engineering, Bhopal",
+    "address": "Bhopal, Madhya Pradesh, India",
+    "type": "Deemed University",
+    "latitude": 28.1722,
+    "longitude": 83.9128
+  },
+  {
+    "name": "Vignan College of Technology, Patna",
+    "address": "Patna, Bihar, India",
+    "type": "Government College",
+    "latitude": 12.8959,
+    "longitude": 88.8645
+  },
+  {
+    "name": "Global College of Education, Ahmedabad",
+    "address": "Ahmedabad, Gujarat, India",
+    "type": "Engineering College",
+    "latitude": 12.4361,
+    "longitude": 95.0402
+  },
+  {
+    "name": "Narayana College of Technology, Coimbatore",
+    "address": "Coimbatore, Tamil Nadu, India",
+    "type": "Autonomous College",
+    "latitude": 30.5898,
+    "longitude": 94.2515
+  },
+  {
+    "name": "Narayana College of Education, Patna",
+    "address": "Patna, Bihar, India",
+    "type": "Private College",
+    "latitude": 24.5918,
+    "longitude": 69.7319
+  },
+  {
+    "name": "Bharath College of Engineering, Kolkata",
+    "address": "Kolkata, West Bengal, India",
+    "type": "Engineering College",
+    "latitude": 16.7856,
+    "longitude": 83.998
+  },
+  {
+    "name": "SRM College of Technology, Hyderabad",
+    "address": "Hyderabad, Telangana, India",
+    "type": "Autonomous College",
+    "latitude": 18.106,
+    "longitude": 74.3055
+  },
+  {
+    "name": "SRM College of Education, Bangalore",
+    "address": "Bangalore, Karnataka, India",
+    "type": "Government College",
+    "latitude": 19.0671,
+    "longitude": 95.1388
+  },
+  {
+    "name": "Regional College of Technology, Mumbai",
+    "address": "Mumbai, Maharashtra, India",
+    "type": "Deemed University",
+    "latitude": 13.9207,
+    "longitude": 70.8294
+  },
+  {
+    "name": "Regional College of Commerce, Lucknow",
+    "address": "Lucknow, Uttar Pradesh, India",
+    "type": "Government College",
+    "latitude": 23.1604,
+    "longitude": 95.4313
+  },
+  {
+    "name": "Bharath College of Education, Cochin",
+    "address": "Cochin, Kerala, India",
+    "type": "Autonomous College",
+    "latitude": 18.464,
+    "longitude": 80.9934
+  },
+  {
+    "name": "Vignan College of Education, Jaipur",
+    "address": "Jaipur, Rajasthan, India",
+    "type": "Government College",
+    "latitude": 19.0098,
+    "longitude": 87.6958
+  },
+  {
+    "name": "National College of Commerce, Mumbai",
+    "address": "Mumbai, Maharashtra, India",
+    "type": "Private College",
+    "latitude": 20.3646,
+    "longitude": 73.0126
+  },
+  {
+    "name": "Narayana College of Education, Jaipur",
+    "address": "Jaipur, Rajasthan, India",
+    "type": "Deemed University",
+    "latitude": 15.3161,
+    "longitude": 92.8959
+  },
+  {
+    "name": "Vignan College of Technology, Raipur",
+    "address": "Raipur, Chhattisgarh, India",
+    "type": "Private College",
+    "latitude": 32.5493,
+    "longitude": 73.52
+  },
+  {
+    "name": "National College of Commerce, Jaipur",
+    "address": "Jaipur, Rajasthan, India",
+    "type": "Government College",
+    "latitude": 18.4245,
+    "longitude": 78.7534
+  },
+  {
+    "name": "Sree College of Education, Cochin",
+    "address": "Cochin, Kerala, India",
+    "type": "Private College",
+    "latitude": 16.9792,
+    "longitude": 83.185
+  },
+  {
+    "name": "Vignan College of Commerce, Coimbatore",
+    "address": "Coimbatore, Tamil Nadu, India",
+    "type": "Engineering College",
+    "latitude": 15.737,
+    "longitude": 78.5677
+  },
+  {
+    "name": "Modern College of Science, Mumbai",
+    "address": "Mumbai, Maharashtra, India",
+    "type": "Engineering College",
+    "latitude": 29.4449,
+    "longitude": 96.2246
+  },
+  {
+    "name": "St. College of Engineering, Lucknow",
+    "address": "Lucknow, Uttar Pradesh, India",
+    "type": "Engineering College",
+    "latitude": 11.6621,
+    "longitude": 84.7242
+  },
+  {
+    "name": "Bharath College of Arts, Ranchi",
+    "address": "Ranchi, Jharkhand, India",
+    "type": "Government College",
+    "latitude": 34.3897,
+    "longitude": 75.6725
+  },
+  {
+    "name": "Global College of Technology, Visakhapatnam",
+    "address": "Visakhapatnam, Andhra Pradesh, India",
+    "type": "Government College",
+    "latitude": 22.7406,
+    "longitude": 88.4955
+  },
+  {
+    "name": "Sree College of Arts, Guntur",
+    "address": "Guntur, Andhra Pradesh, India",
+    "type": "Government College",
+    "latitude": 17.2887,
+    "longitude": 75.9862
+  },
+  {
+    "name": "National College of Technology, Kolkata",
+    "address": "Kolkata, West Bengal, India",
+    "type": "Engineering College",
+    "latitude": 8.0387,
+    "longitude": 73.6483
+  },
+  {
+    "name": "St. College of Technology, Ranchi",
+    "address": "Ranchi, Jharkhand, India",
+    "type": "Deemed University",
+    "latitude": 29.0525,
+    "longitude": 85.3472
+  }
+]

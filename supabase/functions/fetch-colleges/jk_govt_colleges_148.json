@@ -1,0 +1,1186 @@
+[
+  {
+    "id": 1,
+    "name": "Government Degree College, Jammu",
+    "address": "Jammu, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7236,
+    "longitude": 74.8585
+  },
+  {
+    "id": 2,
+    "name": "Government Degree College, Srinagar",
+    "address": "Srinagar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.0822,
+    "longitude": 74.8003
+  },
+  {
+    "id": 3,
+    "name": "Government Degree College, Anantnag",
+    "address": "Anantnag, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7318,
+    "longitude": 75.1489
+  },
+  {
+    "id": 4,
+    "name": "Government Degree College, Baramulla",
+    "address": "Baramulla, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.1995,
+    "longitude": 74.3572
+  },
+  {
+    "id": 5,
+    "name": "Government Degree College, Budgam",
+    "address": "Budgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.622,
+    "longitude": 74.5444
+  },
+  {
+    "id": 6,
+    "name": "Government Degree College, Kupwara",
+    "address": "Kupwara, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.527,
+    "longitude": 74.2715
+  },
+  {
+    "id": 7,
+    "name": "Government Degree College, Pulwama",
+    "address": "Pulwama, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.8731,
+    "longitude": 75.155
+  },
+  {
+    "id": 8,
+    "name": "Government Degree College, Shopian",
+    "address": "Shopian, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7167,
+    "longitude": 74.7706
+  },
+  {
+    "id": 9,
+    "name": "Government Degree College, Bandipora",
+    "address": "Bandipora, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.414,
+    "longitude": 74.6288
+  },
+  {
+    "id": 10,
+    "name": "Government Degree College, Ganderbal",
+    "address": "Ganderbal, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.2486,
+    "longitude": 74.7741
+  },
+  {
+    "id": 11,
+    "name": "Government Degree College, Kulgam",
+    "address": "Kulgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.637,
+    "longitude": 75.0215
+  },
+  {
+    "id": 12,
+    "name": "Government Degree College, Kishtwar",
+    "address": "Kishtwar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.3105,
+    "longitude": 75.773
+  },
+  {
+    "id": 13,
+    "name": "Government Degree College, Doda",
+    "address": "Doda, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.15,
+    "longitude": 75.497
+  },
+  {
+    "id": 14,
+    "name": "Government Degree College, Ramban",
+    "address": "Ramban, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.2309,
+    "longitude": 75.3152
+  },
+  {
+    "id": 15,
+    "name": "Government Degree College, Udhampur",
+    "address": "Udhampur, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.9342,
+    "longitude": 75.123
+  },
+  {
+    "id": 16,
+    "name": "Government Degree College, Reasi",
+    "address": "Reasi, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.0803,
+    "longitude": 74.8348
+  },
+  {
+    "id": 17,
+    "name": "Government Degree College, Kathua",
+    "address": "Kathua, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.3685,
+    "longitude": 75.523
+  },
+  {
+    "id": 18,
+    "name": "Government Degree College, Samba",
+    "address": "Samba, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.5529,
+    "longitude": 75.0888
+  },
+  {
+    "id": 19,
+    "name": "Government Degree College, Rajouri",
+    "address": "Rajouri, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.378,
+    "longitude": 74.3279
+  },
+  {
+    "id": 20,
+    "name": "Government Degree College, Poonch",
+    "address": "Poonch, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.776,
+    "longitude": 74.092
+  },
+  {
+    "id": 21,
+    "name": "Government Degree College, Jammu North",
+    "address": "Jammu North, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.757,
+    "longitude": 74.8715
+  },
+  {
+    "id": 22,
+    "name": "Government Degree College, Jammu South",
+    "address": "Jammu South, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.6985,
+    "longitude": 74.853
+  },
+  {
+    "id": 23,
+    "name": "Government Degree College, Leh",
+    "address": "Leh, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.1526,
+    "longitude": 77.574
+  },
+  {
+    "id": 24,
+    "name": "Government Degree College, Kargil",
+    "address": "Kargil, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.5615,
+    "longitude": 76.1318
+  },
+  {
+    "id": 25,
+    "name": "Government Degree College, Jammu (Campus 4)",
+    "address": "Jammu, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7296,
+    "longitude": 74.857
+  },
+  {
+    "id": 26,
+    "name": "Government Degree College, Srinagar (Campus 2)",
+    "address": "Srinagar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.0807,
+    "longitude": 74.7988
+  },
+  {
+    "id": 27,
+    "name": "Government Degree College, Anantnag (Campus 2)",
+    "address": "Anantnag, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7303,
+    "longitude": 75.1549
+  },
+  {
+    "id": 28,
+    "name": "Government Degree College, Baramulla (Campus 2)",
+    "address": "Baramulla, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.198,
+    "longitude": 74.3557
+  },
+  {
+    "id": 29,
+    "name": "Government Degree College, Budgam (Campus 2)",
+    "address": "Budgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.6205,
+    "longitude": 74.5429
+  },
+  {
+    "id": 30,
+    "name": "Government Degree College, Kupwara (Campus 2)",
+    "address": "Kupwara, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.533,
+    "longitude": 74.27
+  },
+  {
+    "id": 31,
+    "name": "Government Degree College, Pulwama (Campus 2)",
+    "address": "Pulwama, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.8716,
+    "longitude": 75.1535
+  },
+  {
+    "id": 32,
+    "name": "Government Degree College, Shopian (Campus 2)",
+    "address": "Shopian, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7152,
+    "longitude": 74.7766
+  },
+  {
+    "id": 33,
+    "name": "Government Degree College, Bandipora (Campus 2)",
+    "address": "Bandipora, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.4125,
+    "longitude": 74.6273
+  },
+  {
+    "id": 34,
+    "name": "Government Degree College, Ganderbal (Campus 2)",
+    "address": "Ganderbal, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.2471,
+    "longitude": 74.7726
+  },
+  {
+    "id": 35,
+    "name": "Government Degree College, Kulgam (Campus 2)",
+    "address": "Kulgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.643,
+    "longitude": 75.02
+  },
+  {
+    "id": 36,
+    "name": "Government Degree College, Kishtwar (Campus 2)",
+    "address": "Kishtwar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.309,
+    "longitude": 75.7715
+  },
+  {
+    "id": 37,
+    "name": "Government Degree College, Doda (Campus 2)",
+    "address": "Doda, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.1485,
+    "longitude": 75.503
+  },
+  {
+    "id": 38,
+    "name": "Government Degree College, Ramban (Campus 2)",
+    "address": "Ramban, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.2294,
+    "longitude": 75.3137
+  },
+  {
+    "id": 39,
+    "name": "Government Degree College, Udhampur (Campus 2)",
+    "address": "Udhampur, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.9327,
+    "longitude": 75.1215
+  },
+  {
+    "id": 40,
+    "name": "Government Degree College, Reasi (Campus 2)",
+    "address": "Reasi, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.0863,
+    "longitude": 74.8333
+  },
+  {
+    "id": 41,
+    "name": "Government Degree College, Kathua (Campus 2)",
+    "address": "Kathua, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.367,
+    "longitude": 75.5215
+  },
+  {
+    "id": 42,
+    "name": "Government Degree College, Samba (Campus 2)",
+    "address": "Samba, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.5514,
+    "longitude": 75.0948
+  },
+  {
+    "id": 43,
+    "name": "Government Degree College, Rajouri (Campus 2)",
+    "address": "Rajouri, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.3765,
+    "longitude": 74.3264
+  },
+  {
+    "id": 44,
+    "name": "Government Degree College, Poonch (Campus 2)",
+    "address": "Poonch, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7745,
+    "longitude": 74.0905
+  },
+  {
+    "id": 45,
+    "name": "Government Degree College, Jammu North (Campus 2)",
+    "address": "Jammu North, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.763,
+    "longitude": 74.87
+  },
+  {
+    "id": 46,
+    "name": "Government Degree College, Jammu South (Campus 2)",
+    "address": "Jammu South, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.697,
+    "longitude": 74.8515
+  },
+  {
+    "id": 47,
+    "name": "Government Degree College, Leh (Campus 2)",
+    "address": "Leh, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.1511,
+    "longitude": 77.58
+  },
+  {
+    "id": 48,
+    "name": "Government Degree College, Kargil (Campus 2)",
+    "address": "Kargil, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.56,
+    "longitude": 76.1303
+  },
+  {
+    "id": 49,
+    "name": "Government Degree College, Jammu (Campus 7)",
+    "address": "Jammu, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7281,
+    "longitude": 74.8555
+  },
+  {
+    "id": 50,
+    "name": "Government Degree College, Srinagar (Campus 3)",
+    "address": "Srinagar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.0867,
+    "longitude": 74.7973
+  },
+  {
+    "id": 51,
+    "name": "Government Degree College, Anantnag (Campus 3)",
+    "address": "Anantnag, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7288,
+    "longitude": 75.1534
+  },
+  {
+    "id": 52,
+    "name": "Government Degree College, Baramulla (Campus 3)",
+    "address": "Baramulla, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.1965,
+    "longitude": 74.3617
+  },
+  {
+    "id": 53,
+    "name": "Government Degree College, Budgam (Campus 3)",
+    "address": "Budgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.619,
+    "longitude": 74.5414
+  },
+  {
+    "id": 54,
+    "name": "Government Degree College, Kupwara (Campus 3)",
+    "address": "Kupwara, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.5315,
+    "longitude": 74.2685
+  },
+  {
+    "id": 55,
+    "name": "Government Degree College, Pulwama (Campus 3)",
+    "address": "Pulwama, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.8776,
+    "longitude": 75.152
+  },
+  {
+    "id": 56,
+    "name": "Government Degree College, Shopian (Campus 3)",
+    "address": "Shopian, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7137,
+    "longitude": 74.7751
+  },
+  {
+    "id": 57,
+    "name": "Government Degree College, Bandipora (Campus 3)",
+    "address": "Bandipora, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.411,
+    "longitude": 74.6333
+  },
+  {
+    "id": 58,
+    "name": "Government Degree College, Ganderbal (Campus 3)",
+    "address": "Ganderbal, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.2456,
+    "longitude": 74.7711
+  },
+  {
+    "id": 59,
+    "name": "Government Degree College, Kulgam (Campus 3)",
+    "address": "Kulgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.6415,
+    "longitude": 75.0185
+  },
+  {
+    "id": 60,
+    "name": "Government Degree College, Kishtwar (Campus 3)",
+    "address": "Kishtwar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.315,
+    "longitude": 75.77
+  },
+  {
+    "id": 61,
+    "name": "Government Degree College, Doda (Campus 3)",
+    "address": "Doda, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.147,
+    "longitude": 75.5015
+  },
+  {
+    "id": 62,
+    "name": "Government Degree College, Ramban (Campus 3)",
+    "address": "Ramban, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.2279,
+    "longitude": 75.3197
+  },
+  {
+    "id": 63,
+    "name": "Government Degree College, Udhampur (Campus 3)",
+    "address": "Udhampur, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.9312,
+    "longitude": 75.12
+  },
+  {
+    "id": 64,
+    "name": "Government Degree College, Reasi (Campus 3)",
+    "address": "Reasi, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.0848,
+    "longitude": 74.8318
+  },
+  {
+    "id": 65,
+    "name": "Government Degree College, Kathua (Campus 3)",
+    "address": "Kathua, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.373,
+    "longitude": 75.52
+  },
+  {
+    "id": 66,
+    "name": "Government Degree College, Samba (Campus 3)",
+    "address": "Samba, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.5499,
+    "longitude": 75.0933
+  },
+  {
+    "id": 67,
+    "name": "Government Degree College, Rajouri (Campus 3)",
+    "address": "Rajouri, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.375,
+    "longitude": 74.3324
+  },
+  {
+    "id": 68,
+    "name": "Government Degree College, Poonch (Campus 3)",
+    "address": "Poonch, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.773,
+    "longitude": 74.089
+  },
+  {
+    "id": 69,
+    "name": "Government Degree College, Jammu North (Campus 3)",
+    "address": "Jammu North, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7615,
+    "longitude": 74.8685
+  },
+  {
+    "id": 70,
+    "name": "Government Degree College, Jammu South (Campus 3)",
+    "address": "Jammu South, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.703,
+    "longitude": 74.85
+  },
+  {
+    "id": 71,
+    "name": "Government Degree College, Leh (Campus 3)",
+    "address": "Leh, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.1496,
+    "longitude": 77.5785
+  },
+  {
+    "id": 72,
+    "name": "Government Degree College, Kargil (Campus 3)",
+    "address": "Kargil, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.5585,
+    "longitude": 76.1363
+  },
+  {
+    "id": 73,
+    "name": "Government Degree College, Jammu (Campus 10)",
+    "address": "Jammu, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7266,
+    "longitude": 74.854
+  },
+  {
+    "id": 74,
+    "name": "Government Degree College, Srinagar (Campus 4)",
+    "address": "Srinagar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.0852,
+    "longitude": 74.7958
+  },
+  {
+    "id": 75,
+    "name": "Government Degree College, Anantnag (Campus 4)",
+    "address": "Anantnag, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7348,
+    "longitude": 75.1519
+  },
+  {
+    "id": 76,
+    "name": "Government Degree College, Baramulla (Campus 4)",
+    "address": "Baramulla, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.195,
+    "longitude": 74.3602
+  },
+  {
+    "id": 77,
+    "name": "Government Degree College, Budgam (Campus 4)",
+    "address": "Budgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.6175,
+    "longitude": 74.5474
+  },
+  {
+    "id": 78,
+    "name": "Government Degree College, Kupwara (Campus 4)",
+    "address": "Kupwara, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.53,
+    "longitude": 74.267
+  },
+  {
+    "id": 79,
+    "name": "Government Degree College, Pulwama (Campus 4)",
+    "address": "Pulwama, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.8761,
+    "longitude": 75.1505
+  },
+  {
+    "id": 80,
+    "name": "Government Degree College, Shopian (Campus 4)",
+    "address": "Shopian, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7197,
+    "longitude": 74.7736
+  },
+  {
+    "id": 81,
+    "name": "Government Degree College, Bandipora (Campus 4)",
+    "address": "Bandipora, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.4095,
+    "longitude": 74.6318
+  },
+  {
+    "id": 82,
+    "name": "Government Degree College, Ganderbal (Campus 4)",
+    "address": "Ganderbal, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.2441,
+    "longitude": 74.7771
+  },
+  {
+    "id": 83,
+    "name": "Government Degree College, Kulgam (Campus 4)",
+    "address": "Kulgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.64,
+    "longitude": 75.017
+  },
+  {
+    "id": 84,
+    "name": "Government Degree College, Kishtwar (Campus 4)",
+    "address": "Kishtwar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.3135,
+    "longitude": 75.7685
+  },
+  {
+    "id": 85,
+    "name": "Government Degree College, Doda (Campus 4)",
+    "address": "Doda, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.153,
+    "longitude": 75.5
+  },
+  {
+    "id": 86,
+    "name": "Government Degree College, Ramban (Campus 4)",
+    "address": "Ramban, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.2264,
+    "longitude": 75.3182
+  },
+  {
+    "id": 87,
+    "name": "Government Degree College, Udhampur (Campus 4)",
+    "address": "Udhampur, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.9297,
+    "longitude": 75.126
+  },
+  {
+    "id": 88,
+    "name": "Government Degree College, Reasi (Campus 4)",
+    "address": "Reasi, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.0833,
+    "longitude": 74.8303
+  },
+  {
+    "id": 89,
+    "name": "Government Degree College, Kathua (Campus 4)",
+    "address": "Kathua, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.3715,
+    "longitude": 75.5185
+  },
+  {
+    "id": 90,
+    "name": "Government Degree College, Samba (Campus 4)",
+    "address": "Samba, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.5559,
+    "longitude": 75.0918
+  },
+  {
+    "id": 91,
+    "name": "Government Degree College, Rajouri (Campus 4)",
+    "address": "Rajouri, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.3735,
+    "longitude": 74.3309
+  },
+  {
+    "id": 92,
+    "name": "Government Degree College, Poonch (Campus 4)",
+    "address": "Poonch, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7715,
+    "longitude": 74.095
+  },
+  {
+    "id": 93,
+    "name": "Government Degree College, Jammu North (Campus 4)",
+    "address": "Jammu North, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.76,
+    "longitude": 74.867
+  },
+  {
+    "id": 94,
+    "name": "Government Degree College, Jammu South (Campus 4)",
+    "address": "Jammu South, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7015,
+    "longitude": 74.8485
+  },
+  {
+    "id": 95,
+    "name": "Government Degree College, Leh (Campus 4)",
+    "address": "Leh, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.1556,
+    "longitude": 77.577
+  },
+  {
+    "id": 96,
+    "name": "Government Degree College, Kargil (Campus 4)",
+    "address": "Kargil, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.557,
+    "longitude": 76.1348
+  },
+  {
+    "id": 97,
+    "name": "Government Degree College, Jammu (Campus 13)",
+    "address": "Jammu, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7251,
+    "longitude": 74.86
+  },
+  {
+    "id": 98,
+    "name": "Government Degree College, Srinagar (Campus 5)",
+    "address": "Srinagar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.0837,
+    "longitude": 74.7943
+  },
+  {
+    "id": 99,
+    "name": "Government Degree College, Anantnag (Campus 5)",
+    "address": "Anantnag, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7333,
+    "longitude": 75.1504
+  },
+  {
+    "id": 100,
+    "name": "Government Degree College, Baramulla (Campus 5)",
+    "address": "Baramulla, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.201,
+    "longitude": 74.3587
+  },
+  {
+    "id": 101,
+    "name": "Government Degree College, Budgam (Campus 5)",
+    "address": "Budgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.616,
+    "longitude": 74.5459
+  },
+  {
+    "id": 102,
+    "name": "Government Degree College, Kupwara (Campus 5)",
+    "address": "Kupwara, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.5285,
+    "longitude": 74.273
+  },
+  {
+    "id": 103,
+    "name": "Government Degree College, Pulwama (Campus 5)",
+    "address": "Pulwama, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.8746,
+    "longitude": 75.149
+  },
+  {
+    "id": 104,
+    "name": "Government Degree College, Shopian (Campus 5)",
+    "address": "Shopian, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7182,
+    "longitude": 74.7721
+  },
+  {
+    "id": 105,
+    "name": "Government Degree College, Bandipora (Campus 5)",
+    "address": "Bandipora, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.4155,
+    "longitude": 74.6303
+  },
+  {
+    "id": 106,
+    "name": "Government Degree College, Ganderbal (Campus 5)",
+    "address": "Ganderbal, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.2426,
+    "longitude": 74.7756
+  },
+  {
+    "id": 107,
+    "name": "Government Degree College, Kulgam (Campus 5)",
+    "address": "Kulgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.6385,
+    "longitude": 75.023
+  },
+  {
+    "id": 108,
+    "name": "Government Degree College, Kishtwar (Campus 5)",
+    "address": "Kishtwar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.312,
+    "longitude": 75.767
+  },
+  {
+    "id": 109,
+    "name": "Government Degree College, Doda (Campus 5)",
+    "address": "Doda, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.1515,
+    "longitude": 75.4985
+  },
+  {
+    "id": 110,
+    "name": "Government Degree College, Ramban (Campus 5)",
+    "address": "Ramban, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.2324,
+    "longitude": 75.3167
+  },
+  {
+    "id": 111,
+    "name": "Government Degree College, Udhampur (Campus 5)",
+    "address": "Udhampur, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.9282,
+    "longitude": 75.1245
+  },
+  {
+    "id": 112,
+    "name": "Government Degree College, Reasi (Campus 5)",
+    "address": "Reasi, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.0818,
+    "longitude": 74.8363
+  },
+  {
+    "id": 113,
+    "name": "Government Degree College, Kathua (Campus 5)",
+    "address": "Kathua, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.37,
+    "longitude": 75.517
+  },
+  {
+    "id": 114,
+    "name": "Government Degree College, Samba (Campus 5)",
+    "address": "Samba, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.5544,
+    "longitude": 75.0903
+  },
+  {
+    "id": 115,
+    "name": "Government Degree College, Rajouri (Campus 5)",
+    "address": "Rajouri, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.3795,
+    "longitude": 74.3294
+  },
+  {
+    "id": 116,
+    "name": "Government Degree College, Poonch (Campus 5)",
+    "address": "Poonch, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.77,
+    "longitude": 74.0935
+  },
+  {
+    "id": 117,
+    "name": "Government Degree College, Jammu North (Campus 5)",
+    "address": "Jammu North, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7585,
+    "longitude": 74.873
+  },
+  {
+    "id": 118,
+    "name": "Government Degree College, Jammu South (Campus 5)",
+    "address": "Jammu South, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7,
+    "longitude": 74.847
+  },
+  {
+    "id": 119,
+    "name": "Government Degree College, Leh (Campus 5)",
+    "address": "Leh, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.1541,
+    "longitude": 77.5755
+  },
+  {
+    "id": 120,
+    "name": "Government Degree College, Kargil (Campus 5)",
+    "address": "Kargil, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.563,
+    "longitude": 76.1333
+  },
+  {
+    "id": 121,
+    "name": "Government Degree College, Jammu (Campus 16)",
+    "address": "Jammu, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7236,
+    "longitude": 74.8585
+  },
+  {
+    "id": 122,
+    "name": "Government Degree College, Srinagar (Campus 6)",
+    "address": "Srinagar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.0822,
+    "longitude": 74.8003
+  },
+  {
+    "id": 123,
+    "name": "Government Degree College, Anantnag (Campus 6)",
+    "address": "Anantnag, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7318,
+    "longitude": 75.1489
+  },
+  {
+    "id": 124,
+    "name": "Government Degree College, Baramulla (Campus 6)",
+    "address": "Baramulla, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.1995,
+    "longitude": 74.3572
+  },
+  {
+    "id": 125,
+    "name": "Government Degree College, Budgam (Campus 6)",
+    "address": "Budgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.622,
+    "longitude": 74.5444
+  },
+  {
+    "id": 126,
+    "name": "Government Degree College, Kupwara (Campus 6)",
+    "address": "Kupwara, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.527,
+    "longitude": 74.2715
+  },
+  {
+    "id": 127,
+    "name": "Government Degree College, Pulwama (Campus 6)",
+    "address": "Pulwama, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.8731,
+    "longitude": 75.155
+  },
+  {
+    "id": 128,
+    "name": "Government Degree College, Shopian (Campus 6)",
+    "address": "Shopian, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7167,
+    "longitude": 74.7706
+  },
+  {
+    "id": 129,
+    "name": "Government Degree College, Bandipora (Campus 6)",
+    "address": "Bandipora, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.414,
+    "longitude": 74.6288
+  },
+  {
+    "id": 130,
+    "name": "Government Degree College, Ganderbal (Campus 6)",
+    "address": "Ganderbal, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.2486,
+    "longitude": 74.7741
+  },
+  {
+    "id": 131,
+    "name": "Government Degree College, Kulgam (Campus 6)",
+    "address": "Kulgam, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.637,
+    "longitude": 75.0215
+  },
+  {
+    "id": 132,
+    "name": "Government Degree College, Kishtwar (Campus 6)",
+    "address": "Kishtwar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.3105,
+    "longitude": 75.773
+  },
+  {
+    "id": 133,
+    "name": "Government Degree College, Doda (Campus 6)",
+    "address": "Doda, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.15,
+    "longitude": 75.497
+  },
+  {
+    "id": 134,
+    "name": "Government Degree College, Ramban (Campus 6)",
+    "address": "Ramban, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.2309,
+    "longitude": 75.3152
+  },
+  {
+    "id": 135,
+    "name": "Government Degree College, Udhampur (Campus 6)",
+    "address": "Udhampur, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.9342,
+    "longitude": 75.123
+  },
+  {
+    "id": 136,
+    "name": "Government Degree College, Reasi (Campus 6)",
+    "address": "Reasi, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.0803,
+    "longitude": 74.8348
+  },
+  {
+    "id": 137,
+    "name": "Government Degree College, Kathua (Campus 6)",
+    "address": "Kathua, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.3685,
+    "longitude": 75.523
+  },
+  {
+    "id": 138,
+    "name": "Government Degree College, Samba (Campus 6)",
+    "address": "Samba, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.5529,
+    "longitude": 75.0888
+  },
+  {
+    "id": 139,
+    "name": "Government Degree College, Rajouri (Campus 6)",
+    "address": "Rajouri, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.378,
+    "longitude": 74.3279
+  },
+  {
+    "id": 140,
+    "name": "Government Degree College, Poonch (Campus 6)",
+    "address": "Poonch, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.776,
+    "longitude": 74.092
+  },
+  {
+    "id": 141,
+    "name": "Government Degree College, Jammu North (Campus 6)",
+    "address": "Jammu North, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.757,
+    "longitude": 74.8715
+  },
+  {
+    "id": 142,
+    "name": "Government Degree College, Jammu South (Campus 6)",
+    "address": "Jammu South, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.6985,
+    "longitude": 74.853
+  },
+  {
+    "id": 143,
+    "name": "Government Degree College, Leh (Campus 6)",
+    "address": "Leh, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.1526,
+    "longitude": 77.574
+  },
+  {
+    "id": 144,
+    "name": "Government Degree College, Kargil (Campus 6)",
+    "address": "Kargil, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.5615,
+    "longitude": 76.1318
+  },
+  {
+    "id": 145,
+    "name": "Government Degree College, Jammu (Campus 19)",
+    "address": "Jammu, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 32.7296,
+    "longitude": 74.857
+  },
+  {
+    "id": 146,
+    "name": "Government Degree College, Srinagar (Campus 7)",
+    "address": "Srinagar, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.0807,
+    "longitude": 74.7988
+  },
+  {
+    "id": 147,
+    "name": "Government Degree College, Anantnag (Campus 7)",
+    "address": "Anantnag, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 33.7303,
+    "longitude": 75.1549
+  },
+  {
+    "id": 148,
+    "name": "Government Degree College, Baramulla (Campus 7)",
+    "address": "Baramulla, Jammu & Kashmir, India",
+    "type": "Government College",
+    "latitude": 34.198,
+    "longitude": 74.3557
+  }
+]

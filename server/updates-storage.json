@@ -1,0 +1,38 @@
+{
+  "aiTools": [
+    {
+      "id": "1758809619018",
+      "title": "Test Tool",
+      "description": "Test desc",
+      "link": "http://test.com",
+      "pricing": "Free",
+      "user_id": "test",
+      "created_at": "2025-09-25T14:13:39.018Z"
+    },
+    {
+      "id": "1758809919820",
+      "title": "ChatGPT 5",
+      "description": "GPT-5 is OpenAI’s next-generation large language model, designed to improve reasoning, problem-solving, and creative generation across text, code, and media. It builds on GPT-4 with faster responses, deeper contextual understanding, and better accuracy in complex tasks.",
+      "link": "https://openai.com",
+      "pricing": "Free",
+      "user_id": "880993c2-b369-4797-bea3-79ac6cea4094",
+      "created_at": "2025-09-25T14:18:39.820Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1758809880968",
+      "title": "b",
+      "company_name": "nn",
+      "location": "nn",
+      "job_type": "Full-time",
+      "salary": "nnn",
+      "application_link": "https://openai.com",
+      "description": "nn",
+      "user_id": "880993c2-b369-4797-bea3-79ac6cea4094",
+      "created_at": "2025-09-25T14:18:00.969Z"
+    }
+  ],
+  "internships": [],
+  "scholarships": []
+}
